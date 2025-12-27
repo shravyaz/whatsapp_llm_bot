@@ -2,7 +2,7 @@
 
 A simple WhatsApp AI Assistant that responds to messages using Groq Llama 3.1.
 Built using Python, Flask, Twilio Sandbox & Ngrok, allowing real-time WhatsApp conversations with an AI model.
-
+---------------------------------------------------------------------------------------------------------------------
 🚀 Features
 
 Chat with AI directly inside WhatsApp
@@ -16,7 +16,7 @@ Works via Twilio WhatsApp Sandbox
 Ngrok exposes local server publicly for testing
 
 Clean & minimal code structure
-
+----------------------------------------------------------------------------------------------------------------------
 🏗 Tech Stack
 Layer	Technology
 Backend	Python + Flask
@@ -30,7 +30,7 @@ whatsapp-llm-bot/
 │── .env                  # API keys (NOT committed)
 │── ngrok.exe             # Tunnel for public access
 └── README.md             # Documentation
-
+------------------------------------------------------------------------------------------------------------------------
 🔧 Setup Instructions
 1️⃣ Clone repository
 git clone https://github.com/shravyaz/whatsapp_llm_bot.git
@@ -77,6 +77,8 @@ Chat memory	⭐⭐
 Multi-user conversation	⭐⭐⭐
 Deploy permanently to Render / AWS	⭐⭐⭐⭐
 Convert to WhatsApp Business Cloud API	⭐⭐⭐⭐
+
+-------------------------------------------------------------------------------------------------------------------
 📌 What I Learned
 
 Connecting LLM with real-time messaging apps
