@@ -28,5 +28,5 @@ Users can send messages on WhatsApp, and the bot replies intelligently using an 
 
 ---
 
-## 📂 Project Structure
+
 
